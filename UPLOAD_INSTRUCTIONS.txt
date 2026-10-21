@@ -1,0 +1,16 @@
+1. Extract this ZIP on your computer.
+2. Open https://github.com/abshah-ai/ai-green-extraction-demo
+3. Choose Add file > Upload files.
+4. Upload these five files directly to the repository root:
+   README.md
+   extraction_demo.ipynb
+   simulated_extraction_data.csv
+   requirements.txt
+   TEACHING_GUIDE.md
+   Upload the files, not the ZIP or its enclosing folder.
+5. The supplied README replaces your starter README. Keep the existing LICENSE and .gitignore.
+6. Enter commit message: Add green extraction teaching demo
+7. Commit changes to main. If your default branch has another name, update the README Colab link to use it.
+8. Click Open in Colab in the new README and run the notebook.
+
+The project has been prepared and tested locally; it has not been uploaded to your GitHub account by ChatGPT.
